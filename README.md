@@ -1,0 +1,2 @@
+# Smores
+Collaborative whiteboard application
